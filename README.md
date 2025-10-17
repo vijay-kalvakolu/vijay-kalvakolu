@@ -2,7 +2,7 @@
 
 <--
 
-Im a Cloud & DevOps Professional
+Cloud & DevOps Professional
 
 
 -->
